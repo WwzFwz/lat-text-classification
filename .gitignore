@@ -1,0 +1,13 @@
+# keluaran yang dihasilkan notebook saat dijalankan
+model_*.joblib
+model_*.pt
+hasil_*.csv
+hasil_prediksi_*.csv
+ringkasan_*.json
+submission.csv
+
+# jupyter / python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
