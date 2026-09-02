@@ -1,0 +1,41 @@
+kalimat1,kalimat2,label
+Apakah produk ini bergaransi resmi?,Barang ini garansinya resmi tidak?,duplikat
+Bagaimana cara reset password akun saya?,Berapa lama pengiriman ke Bandung?,bukan
+Bagaimana cara membatalkan pesanan?,Apakah barang ini masih tersedia?,bukan
+Ongkir ke Surabaya berapa?,Prosedur retur barang seperti apa?,bukan
+Berapa biaya ongkos kirim ke Surabaya?,Apakah ukuran L tersedia?,bukan
+Bagaimana cara reset password akun saya?,Gimana caranya mengganti kata sandi akun?,duplikat
+Stok ukuran L masih ada?,"Transaksi saya ditolak, kenapa?",bukan
+Gimana cara bikin akun?,"Saldo saya terpotong tanpa transaksi, kenapa?",bukan
+Cek resi pengiriman gimana caranya?,Harganya sudah include pajak belum?,bukan
+Apakah toko buka hari Minggu?,Hari Minggu bukanya jam berapa?,duplikat
+Bagaimana cara menghubungi customer service?,Apakah harga sudah termasuk pajak?,bukan
+Apakah ukuran L tersedia?,Stok ukuran L masih ada?,duplikat
+Gimana cara chat dengan CS?,Beli grosir dapat potongan harga tidak?,bukan
+Apakah bisa bayar di tempat?,Kenapa saldo saya berkurang?,bukan
+Berapa lama pengiriman ke Bandung?,Estimasi pengiriman ke Bandung berapa hari?,duplikat
+Kenapa pembayaran saya gagal?,Bagaimana cara melacak paket saya?,bukan
+Kenapa aplikasi saya tidak bisa dibuka?,"Aplikasinya gagal dibuka, kenapa ya?",duplikat
+Bagaimana cara menghubungi customer service?,Gimana cara chat dengan CS?,duplikat
+Kapan barang saya dikirim?,Pesanan saya dikirim kapan ya?,duplikat
+Ada opsi COD tidak?,Stok produk ini masih ada tidak?,bukan
+Kapan barang saya dikirim?,Apakah ada diskon untuk pembelian banyak?,bukan
+Bagaimana cara mendaftar akun baru?,Gimana cara bikin akun?,duplikat
+Apakah ada diskon untuk pembelian banyak?,Beli grosir dapat potongan harga tidak?,duplikat
+Bagaimana cara mengembalikan barang?,Prosedur retur barang seperti apa?,duplikat
+Apakah toko buka hari Minggu?,Bagaimana cara mengembalikan barang?,bukan
+Bisakah alamat pengiriman diubah?,"Saya mau ganti alamat kirim, bisa?",duplikat
+Kenapa saldo saya berkurang?,"Saldo saya terpotong tanpa transaksi, kenapa?",duplikat
+Apakah produk ini bergaransi resmi?,Bagaimana cara mendaftar akun baru?,bukan
+Bagaimana cara melacak paket saya?,Cek resi pengiriman gimana caranya?,duplikat
+"Aplikasinya gagal dibuka, kenapa ya?",Hari Minggu bukanya jam berapa?,bukan
+Apakah barang ini masih tersedia?,Stok produk ini masih ada tidak?,duplikat
+Bagaimana cara membatalkan pesanan?,Gimana caranya cancel order?,duplikat
+Apakah bisa bayar di tempat?,Ada opsi COD tidak?,duplikat
+Gimana caranya cancel order?,Estimasi pengiriman ke Bandung berapa hari?,bukan
+Bisakah alamat pengiriman diubah?,Kenapa aplikasi saya tidak bisa dibuka?,bukan
+Kenapa pembayaran saya gagal?,"Transaksi saya ditolak, kenapa?",duplikat
+"Saya mau ganti alamat kirim, bisa?",Barang ini garansinya resmi tidak?,bukan
+Berapa biaya ongkos kirim ke Surabaya?,Ongkir ke Surabaya berapa?,duplikat
+Apakah harga sudah termasuk pajak?,Harganya sudah include pajak belum?,duplikat
+Pesanan saya dikirim kapan ya?,Gimana caranya mengganti kata sandi akun?,bukan
